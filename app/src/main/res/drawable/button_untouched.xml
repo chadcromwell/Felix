@@ -1,0 +1,13 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button_untouched"
+    android:height="80dp"
+    android:width="80dp"
+    android:viewportHeight="80"
+    android:viewportWidth="80"
+    >
+    <path android:fillColor="@color/buttonUntouched"
+        android:pathData="M0,40
+        A10,10 0 2,2 80,40
+        A10,10 0 2,2 0,40z"/>
+</vector>
